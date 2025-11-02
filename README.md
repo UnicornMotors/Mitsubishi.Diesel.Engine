@@ -1,5 +1,5 @@
 # Mitsubishi.Diesel.Engine
-# Mitsubishi 4M4
+# model: 4M4
 configuration: Inline 4
 
 article:
